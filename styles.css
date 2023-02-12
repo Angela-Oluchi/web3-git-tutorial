@@ -8,6 +8,10 @@
     padding: 10px;
 }
 
+hr {
+    border: 2px solid;
+}
+
 .grid-page {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
